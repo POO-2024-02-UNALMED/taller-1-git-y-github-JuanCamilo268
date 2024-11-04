@@ -1,0 +1,1 @@
+Aparentemente, crear una nueva carpeta no cuenta como un cambio relevante, sin embargo, una vez esta tiene nueva información, se detecta un cambio y se puede hacer el commit para luego subirse con el comandu push
