@@ -7,3 +7,7 @@ mejorar yo como estudiante de esta materia, pues de momento he comenzado con el 
 =======
 Aparentemente, crear una nueva carpeta no cuenta como un cambio relevante, sin embargo, una vez esta tiene nueva información, se detecta un cambio y se puede hacer el commit para luego subirse con el comandu push
 >>>>>>> d88c7fa5cbd784338bfa33058bfd787e1913f0a6
+Me parece que si hay dos archivos con mismo nombre exacto, pero diferente información, estos
+entran en conflicto, lo que ocaciona que estos no se pueda procesar la onformación 
+correctamente, es por esto que hay que asegurarse de estar trabajand en un solo espacio
+y no en varios a la vez
