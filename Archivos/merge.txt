@@ -1,4 +1,9 @@
+Aparentemente, crear una nueva carpeta no cuenta como un cambio relevante, sin embargo, una vez esta tiene nueva información, se detecta un cambio y se puede hacer el commit para luego subirse con el comandu push
+<<<<<<< HEAD
 Juan Camilo León
 18 años
 Espero poder crear mis primeras aplicaciones simples, pero sobre todo,
 mejorar yo como estudiante de esta materia, pues de momento he comenzado con el pie izquierdo
+=======
+Aparentemente, crear una nueva carpeta no cuenta como un cambio relevante, sin embargo, una vez esta tiene nueva información, se detecta un cambio y se puede hacer el commit para luego subirse con el comandu push
+>>>>>>> d88c7fa5cbd784338bfa33058bfd787e1913f0a6
